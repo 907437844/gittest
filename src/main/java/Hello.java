@@ -6,7 +6,7 @@ public class Hello {
         System.out.println("hello,master");
         System.out.println("hello,hot-fix2222");
         System.out.println("hello,push git");
-
+        System.out.println("hello,push git222222");
 
     }
 }
